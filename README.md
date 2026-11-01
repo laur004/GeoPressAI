@@ -59,8 +59,18 @@ Modelul trebuie sa extraga:
 - cauzele (daca sunt mentionate in articol)
 - pagube / numarul de vieti omenesti pierdute
 
-## Date meteorologice - Open Meteo
+## Localizarea evenimentului - geocodare folosind Nominatim
 
+Folosim acest API pentru a localiza cat mai precis evenimentul utilizand informatia furnizata de LLM la pasul anterior(locatia producerii evenimentului).
+
+##Date meteorologice - Open Meteo
+
+Folosim acest API pentru a extrage urmatoarele date de interes:
+- temp_min
+- temp_max
+- temp_medie
+- umiditate_medie
+- vant_max
 
 ## Vizualizare harta Romaniei pe judete(Choropleth Map)
 - Folium (foloseste Leaflet.js Maps Library, dar permite generarea hartii direct din codul Python)
