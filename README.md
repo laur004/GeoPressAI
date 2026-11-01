@@ -63,7 +63,7 @@ Modelul trebuie sa extraga:
 
 Folosim acest API pentru a localiza cat mai precis evenimentul utilizand informatia furnizata de LLM la pasul anterior(locatia producerii evenimentului).
 
-##Date meteorologice - Open Meteo
+## Date meteorologice - Open Meteo
 
 Folosim acest API pentru a extrage urmatoarele date de interes:
 - temp_min
