@@ -51,7 +51,7 @@ uv pip install geopy
 3) alunecari de terene: in search bar caut "alunecari teren"
 
 
-## Model AI pentru extragerea entitatilor
+## Model AI pentru extragerea entitatilor - Qwen 3.5 - 9B GGUF
 
 Modelul trebuie sa extraga:
 - locatia producerii evenimentului(pentru localizare precisa vom folosi )
