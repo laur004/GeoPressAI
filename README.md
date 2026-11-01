@@ -20,7 +20,6 @@ uv venv
 Daca comanda anterioara nu a functionat incearca:
 
 ```bash
-.venv\Scripts\activate
 .\venv\Scripts\Activate.ps1
 ```
 
