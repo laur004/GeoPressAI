@@ -46,7 +46,7 @@ uv pip install geopy
 
 
 ### Fenomene de interes si metoda de cautare pe site-uri
-1) incendii de vegetatie: in search bar caut "incediu vegetatie"
+1) incendii de vegetatie: in search bar caut "incendiu vegetatie"
 2) inundatii/viituri: in search bar caut "inundatii"
 3) alunecari de terene: in search bar caut "alunecari teren"
 
